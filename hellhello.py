@@ -24,6 +24,7 @@ def about():
     return '''
     <h1>About</h1>
     <p>This is my DevOps Flask application.</p>
+        <p>This is my DevOps Flask application.</p>
     <p><a href="https://flask.palletsprojects.com/">Flask website</a></p>
     '''
 
