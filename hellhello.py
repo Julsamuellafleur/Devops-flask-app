@@ -9,7 +9,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return '''
-    <h1>Hello, World, I am a Flask app!</h1>
+    <h1>This is another string </h1>
     <p><a href="/about">About</a></p>
     <p><a href="/contact">Contact</a></p>
     '''
